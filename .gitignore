@@ -1,0 +1,15 @@
+# raw shopify exports - contain real customer PII, never commit
+data/raw/
+*orders_export*.csv
+*customers_export*.csv
+
+# derived clean data (regenerate with prepare_data.py)
+clean/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os
+.DS_Store

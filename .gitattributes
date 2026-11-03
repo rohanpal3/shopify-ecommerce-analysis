@@ -1,0 +1,6 @@
+# tell github's linguist what this repo actually is (SQL-first)
+*.ipynb linguist-documentation
+charts.ipynb linguist-documentation
+results/*.csv linguist-generated
+data/sample/*.csv linguist-generated
+*.sql linguist-detectable=true
