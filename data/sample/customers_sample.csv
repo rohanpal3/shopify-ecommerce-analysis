@@ -1,0 +1,201 @@
+customer_hash,city,province,country,total_spent,total_orders,accepts_email
+c_c5ea61e403,Gurugram,HR,IN,0.0,1,0
+c_5090269979,South West Delhi,DL,IN,20285.52,22,1
+c_94659a802a,Bangalore,KA,IN,975.79,1,1
+c_fbe47d830c,Mumbai,MH,IN,5038.1,5,1
+c_a29f81e55b,Thane,MH,IN,690.99,1,1
+c_e2d60d3c27,Mumbai,MH,IN,975.79,1,1
+c_dcc2944abc,Mumbai,MH,IN,2455.94,2,1
+c_faf1273cc0,K.V.Rangareddy,TS,IN,650.31,1,1
+c_3fe0f8c4dc,South,DL,IN,1951.42,2,1
+c_33d87da05a,Delhi,DL,IN,2032.62,2,1
+c_4932324c17,Ghaziabad,UP,IN,650.31,1,1
+c_bde8db8d5e,Bharuch,GJ,IN,975.79,1,1
+c_0ce0a67d64,Thane,MH,IN,650.31,1,1
+c_716fbc1cc2,Mumbai,MH,IN,975.79,1,0
+c_b98fb5c698,Lucknow,UP,IN,3578.16,3,1
+c_1c1039adc6,Bangalore,KA,IN,650.31,1,1
+c_97ac1d08f5,Nashik,MH,IN,812.89,1,1
+c_4b8c4a53a3,Thane,MH,IN,2601.89,3,1
+c_0d1f4b64df,Mumbai,MH,IN,650.31,1,1
+c_ec5ea93ddf,Bangalore,KA,IN,2520.35,2,1
+c_6d362a251a,Pune,MH,IN,2503.92,2,1
+c_7c015beee8,Pune,MH,IN,975.79,1,1
+c_d63b8b716b,Gurgaon,HR,IN,975.79,1,1
+c_fb964a872f,Kozhikode,KL,IN,1219.74,1,1
+c_7ab5c34bfe,Chennai,TN,IN,2642.08,3,1
+c_b17fc46655,North 24 Parganas,WB,IN,1625.77,2,1
+c_05bd7fea1a,Jaipur,RJ,IN,650.31,1,1
+c_6f627b1009,Mumbai,MH,IN,975.79,1,1
+c_223c9bf362,Vizianagaram,AP,IN,2846.32,2,1
+c_fb442f860a,West Delhi,DL,IN,1626.59,1,1
+c_dfcd03a388,Hyderabad,TS,IN,1870.05,2,1
+c_9e004c4b7a,Secunderabad,TS,IN,1121.28,1,0
+c_0af0e48f98,Mumbai,MH,IN,650.31,1,1
+c_83e78c1570,Bangalore,KA,IN,1300.62,2,0
+c_2a61aaff65,Gurgaon,HR,IN,975.79,1,1
+c_4d7100b9a4,Bangalore,KA,IN,690.99,1,1
+c_b3fe5411f5,Hyderabad,TS,IN,1301.27,1,1
+c_0ba8b529eb,Mumbai,MH,IN,650.31,1,1
+c_a0b93f644d,Faridabad,HR,IN,1463.2,2,1
+c_417a263ba8,Hydrabad,MH,IN,1870.05,2,1
+c_3feefe9bd0,Panchkula,HR,IN,1300.62,1,1
+c_b308a9eff2,Surat,GJ,IN,1300.62,2,1
+c_fd22dacdb4,Ludhiana,PB,IN,650.31,1,1
+c_92a4d0815a,Visakhapatnam,AP,IN,975.79,1,1
+c_dcc1cfc571,Hyderabad,TS,IN,650.31,1,1
+c_fdb58f5865,Mumbai,MH,IN,650.31,1,0
+c_3bfa12f53e,Bangalore,KA,IN,975.79,1,1
+c_735f525f72,Nilgiris,TN,IN,0.0,1,1
+c_9778404d9e,Bangalore,KA,IN,650.31,1,1
+c_89d879f207,Mathura,UP,IN,1219.74,1,1
+c_ac30bcd0a4,Bangalore,KA,IN,1016.47,1,1
+c_6f332fbf00,South 24 Parganas,WB,IN,975.79,1,1
+c_59c30052fa,Bangalore,KA,IN,975.79,1,1
+c_ef5b3bb1de,South Delhi,DL,IN,650.31,1,1
+c_c003f3d032,Gautam Buddha Nagar,UP,IN,975.79,1,1
+c_889f9f01ae,Rajkot,GJ,IN,1463.36,2,0
+c_5e2a08b887,Jaipur,RJ,IN,975.79,1,1
+c_5e703b8170,East Khasi Hills,ML,IN,1016.47,1,1
+c_553f1a5289,Mumbai,MH,IN,1016.47,1,1
+c_5e19534c1f,Panchkula,HR,IN,1301.27,1,1
+c_1932912e4a,Bangalore,KA,IN,650.31,1,1
+c_22bfb372c8,Mumbai,MH,IN,975.79,1,1
+c_04ef1d7d68,Mumbai,MH,IN,1301.27,1,1
+c_7edac24190,Srinagar,JK,IN,975.79,1,1
+c_a493d3a358,Bangalore,KA,IN,975.79,1,1
+c_c642261496,Noida,UP,IN,975.79,1,1
+c_a41f9ed2f7,Hyderabad,TS,IN,812.89,1,0
+c_72adb6d18c,Ghaziabad,UP,IN,1219.74,1,1
+c_1d1904ad0a,Gwalior,MP,IN,650.31,1,1
+c_e99f55158e,Mumbai,MH,IN,650.31,1,1
+c_3e3bda58c0,Alwar,RJ,IN,1463.2,2,1
+c_0bf0e1baac,Tiruvallur,TN,IN,1626.59,1,1
+c_428ee29ecb,Bhopal,MP,IN,650.31,1,1
+c_2da3f0c15a,Bangalore,KA,IN,975.79,1,1
+c_67e7eef86e,Pune,MH,IN,4228.31,4,1
+c_eae413701b,North Goa,GA,IN,1667.27,1,1
+c_c6ca833319,Pune,MH,IN,975.79,1,1
+c_872a230c62,Arpora Bardez,GA,IN,650.31,1,1
+c_ee9cee9b6a,West Nimar,MP,IN,650.31,1,1
+c_69cd933e94,Gurgaon,HR,IN,650.31,1,1
+c_f7dee7ba28,Kanchipuram,TN,IN,2211.96,2,1
+c_69a6fcc5b3,Thane,MH,IN,650.31,1,1
+c_89845bf789,South West Delhi,DL,IN,975.79,1,1
+c_256a3aa861,Jalandhar,PB,IN,650.31,1,1
+c_dfc09261cb,Bijnor,UP,IN,2211.96,2,1
+c_57c1f0fca3,Bangalore,KA,IN,975.79,1,1
+c_023fed5a72,Mumbai,MH,IN,650.31,1,1
+c_c551f77628,Kolkata,WB,IN,975.79,1,1
+c_2ccf4acd8b,Gautam Buddha Nagar,UP,IN,1057.16,1,1
+c_c997a2f867,South Andaman,AN,IN,650.31,1,1
+c_02c46d1616,Ahmedabad,GJ,IN,650.31,1,1
+c_633a45be93,Solapur,MH,IN,650.31,1,1
+c_587c8e914d,Thane,MH,IN,975.79,1,1
+c_4e4cffc67a,Mumbai,MH,IN,1301.27,1,1
+c_404676e305,Mumbai,MH,IN,2521.01,2,1
+c_8f93adfe68,South 24 Parganas,WB,IN,1219.74,1,1
+c_4f2ccb1f8f,Alappuzha,KL,IN,2862.27,3,1
+c_77df9e2e3e,Jammu,JK,IN,1870.21,2,1
+c_c4666871e9,Pune,MH,IN,1219.74,1,1
+c_8341a90c69,Jabalpur,MP,IN,650.31,1,1
+c_5669aec6e4,Thane,MH,IN,650.31,1,1
+c_099e905eb0,Thrissur,KL,IN,1626.59,1,1
+c_cf1052db84,Gurgaon,HR,IN,650.31,1,1
+c_78d87b73c1,Gwalior,MP,IN,1463.36,2,1
+c_051d304ec9,Thane,MH,IN,1589.64,2,1
+c_0393f276f9,West Delhi,DL,IN,975.79,1,0
+c_5dc534a401,Pune,MH,IN,650.31,1,1
+c_1b6fc5a3d8,Muktsar,PB,IN,2764.3,3,1
+c_27932c4ea3,Bastar,CG,IN,1301.27,1,1
+c_72cfa223d6,Nagpur,MH,IN,2114.32,2,1
+c_6aa7e32830,Mumbai,MH,IN,650.31,1,1
+c_023cf28dd5,Amritsar,PB,IN,650.31,1,0
+c_b8e8645119,Noida,UP,IN,2928.02,2,1
+c_01113cdbb7,Hyderabad,TS,IN,975.79,1,1
+c_acb98f8dc4,Thiruvananthapuram,KL,IN,1301.27,1,1
+c_39f3491bed,Ghaziabad,UP,IN,650.31,1,1
+c_eeaab24e60,Bangalore,KA,IN,731.68,1,1
+c_10b4a33698,Thane,MH,IN,1625.77,2,1
+c_352dc0ccb3,Bangalore,KA,IN,3281.36,3,1
+c_69958954e9,Chennai,TN,IN,975.79,1,1
+c_da60e1afdf,Sangrur,PB,IN,0.0,1,1
+c_85f72a359b,Damoh,MP,IN,894.42,2,1
+c_6d18ec7603,Dakshina Kannada,KA,IN,650.31,1,1
+c_068a01b016,Bangalore,KA,IN,975.79,1,1
+c_2aeeac21b6,Medak,TS,IN,1219.74,1,1
+c_4af89292a8,Kolkata,WB,IN,1219.74,1,0
+c_f4460fc070,Mandi,HP,IN,975.79,1,1
+c_552bcde5b2,Ludhiana,PB,IN,650.31,1,1
+c_ba83ecd44d,Kolkata,WB,IN,650.31,1,1
+c_8167006d32,New Delhi,DL,IN,650.31,1,1
+c_c6b2592364,Vadodara,GJ,IN,650.31,1,1
+c_9411bbb8b6,Surat,GJ,IN,975.79,1,1
+c_4708b66b8a,Pune,MH,IN,812.89,1,1
+c_c2a25fe17b,Bangalore,KA,IN,650.31,1,1
+c_6f680e5e9c,Kolkata,WB,IN,650.31,1,1
+c_ba1c3e43b3,Allahabad,UP,IN,975.79,1,1
+c_d741c7315b,West Delhi,DL,IN,650.31,1,1
+c_db1867ecfa,Pune,MH,IN,975.79,1,1
+c_173e0d9724,Mumbai,MH,IN,650.31,1,1
+c_1edb74a34f,Darjiling,WB,IN,650.31,1,1
+c_463a50a865,Kolkata,WB,IN,1625.94,2,1
+c_676615bf19,Gautam Buddha Nagar,UP,IN,812.89,1,0
+c_d778a0c783,Kollam,KL,IN,975.79,2,1
+c_92947e7b12,Chandigarh,CH,IN,975.79,1,1
+c_3db63594fa,Thane,MH,IN,1301.27,1,1
+c_d72a7c96a7,Pune,MH,IN,975.79,1,1
+c_6f2191515e,Puruliya,WB,IN,975.79,1,1
+c_dadd431264,Chennai,TN,IN,3334.05,4,1
+c_27c7260a82,"Porvorim, Aradi Socorro",GA,IN,0.0,1,0
+c_397b44a53a,Chennai,TN,IN,812.89,1,1
+c_7403512b32,Mumbai,MH,IN,975.79,1,0
+c_557ca866c7,Gautam Buddha Nagar,UP,IN,650.31,1,1
+c_a119a15b86,East Khasi Hills,ML,IN,650.31,1,1
+c_a0e29dd9c8,Bangalore,KA,IN,975.79,1,1
+c_ec3c39dbfe,Tiruvallur,TN,IN,650.31,1,1
+c_6beef0afdf,Gorakhpur,UP,IN,2683.09,3,1
+c_2ffb6a90f9,North Goa,GA,IN,975.79,1,1
+c_d500657d49,Kolkata,WB,IN,650.31,1,1
+c_1e514dd45f,Gurgaon,HR,IN,650.31,1,1
+c_0add7d66c6,Mumbai,MH,IN,650.31,1,1
+c_4f8b5a4c02,Bangalore,KA,IN,650.31,1,1
+c_06d41f901c,Thane,MH,IN,1463.36,2,1
+c_c63109f51e,East Delhi,DL,IN,650.31,1,1
+c_dd472bec6c,Chennai,TN,IN,650.31,1,1
+c_7352ea9714,Sivasagar,AS,IN,1300.62,1,1
+c_d1e76888d3,Palitana,GJ,IN,1463.36,2,1
+c_70ceaec7fa,Chandrapur,MH,IN,812.89,1,1
+c_64d50582bf,Kollam,KL,IN,2602.54,2,1
+c_fa1a7baa1d,Solapur,MH,IN,650.31,1,1
+c_5fcc9bf93a,Mumbai,MH,IN,650.31,1,1
+c_ffe6d9d2d3,Gandhinagar,GJ,IN,650.31,1,1
+c_b904233e18,Amritsar,PB,IN,1626.59,1,1
+c_55529ae3fc,Lucknow,UP,IN,650.31,1,1
+c_690936f38a,North West Delhi,DL,IN,975.79,1,1
+c_c2025cb283,Gautam Buddha Nagar,UP,IN,650.31,1,1
+c_51dde67b62,Jaipur,RJ,IN,650.31,1,1
+c_7f362c1132,Lucknow,UP,IN,2276.9,2,1
+c_ba2946c0d3,Gurgaon,HR,IN,1300.62,2,1
+c_af73bb3d94,Gurgaon,HR,IN,650.31,1,1
+c_ceef538cdb,Bangalore,KA,IN,1057.16,1,1
+c_c040b33e59,K V Rangareddy,TS,IN,812.89,1,1
+c_6fbc7384e8,Nashik,MH,IN,2439.47,2,1
+c_775092b9e0,Kozhikode,KL,IN,1463.36,2,1
+c_9a126ab2f3,Ludhiana,PB,IN,650.31,1,0
+c_ffcfb1dde1,Vadodara,GJ,IN,975.79,1,1
+c_f9a36753b8,Thiruvananthapuram,KL,IN,0.0,1,1
+c_f0031632c1,Mumbai,MH,IN,650.31,1,1
+c_738e465d28,Bangalore,KA,IN,1463.2,2,1
+c_13d90007c3,Pune,MH,IN,650.31,1,1
+c_6e324d5274,Pune,MH,IN,650.31,1,1
+c_ec87d9824e,Udaipur,RJ,IN,650.31,1,1
+c_4869352958,Thane,MH,IN,1301.27,1,1
+c_f28f1ac3c6,Darbhanga,BR,IN,812.89,1,1
+c_3aaf481f93,Pune,MH,IN,1788.68,2,1
+c_b3f81f17aa,Central Delhi,DL,IN,975.79,1,1
+c_2932c77ba2,Chennai,TN,IN,650.31,1,1
+c_0c79c91af8,Bargarh,OR,IN,650.31,1,1
+c_35d05ed1e5,South Delhi,DL,IN,1219.74,1,1
+c_4b29c98ced,Chennai,TN,IN,3495.82,4,1
+c_dcabd72bf2,Thane,MH,IN,0.0,0,1

@@ -1,0 +1,201 @@
+order_name,customer_hash,financial_status,currency,subtotal,shipping,taxes,total,discount_code,discount_amount,refunded_amount,created_at,order_date,channel,payment_method,ship_city,ship_province,ship_country
+#cf2073,c_e7a77578ca,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 07:45:30 +0530,2026-06-10,Online Store,Cashfree,Kottayam,KL,IN
+#cf2072,c_7085e1b2a3,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 07:43:47 +0530,2026-06-10,Online Store,Cashfree,Vadodara,GJ,IN
+#cf2071,c_e7f8fb3819,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-10 07:35:25 +0530,2026-06-10,Online Store,Cash on Delivery (COD) + Cashfree + cod,Ahmedabad,GJ,IN
+#cf2070,c_9b3fe9ed98,paid,INR,650.31,40.69,0.0,690.99,PrepaidDiscount,162.58,0.0,2026-06-10 07:35:17 +0530,2026-06-10,Online Store,Cashfree,Bangalore,KA,IN
+#cf2069,c_7a07a78057,paid,INR,813.05,40.69,0.0,853.73,PrepaidDiscount,203.26,0.0,2026-06-10 07:34:08 +0530,2026-06-10,Online Store,Cashfree,Thane,MH,IN
+#cf2068,c_b7a3a58dbb,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 07:33:20 +0530,2026-06-10,Online Store,Cashfree,Howrah,WB,IN
+#cf2067,c_7c86f0dbe5,paid,INR,1236.17,0.0,0.0,1236.17,PrepaidDiscount,309.04,0.0,2026-06-10 07:29:56 +0530,2026-06-10,Online Store,Cashfree,Ahmedabad,GJ,IN
+#cf2066,c_46a0c2e1c9,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-10 07:20:43 +0530,2026-06-10,Online Store,Cashfree,Mumbai,MH,IN
+#cf2065,c_d802f783eb,paid,INR,1301.27,0.0,0.0,1301.27,PrepaidDiscount,325.32,0.0,2026-06-10 07:18:56 +0530,2026-06-10,Online Store,Cashfree,Kolar,KA,IN
+#cf2064,c_d1b21dd15d,paid,INR,1236.17,0.0,0.0,1236.17,PrepaidDiscount,309.04,0.0,2026-06-10 07:16:42 +0530,2026-06-10,Online Store,Cashfree,North 24 Parganas,WB,IN
+#cf2063,c_e489314a01,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-10 07:14:47 +0530,2026-06-10,Online Store,Cashfree,Pune,MH,IN
+#cf2062,,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-10 07:13:22 +0530,2026-06-10,Online Store,Cashfree,Madurai,TN,IN
+#cf2061,c_c52ed40c5f,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-10 07:10:33 +0530,2026-06-10,Online Store,Cashfree,Rajkot,GJ,IN
+#cf2060,c_728bdad1ba,paid,INR,650.31,40.69,0.0,690.99,PrepaidDiscount,162.58,0.0,2026-06-10 07:07:35 +0530,2026-06-10,Online Store,Cashfree,Bangalore,KA,IN
+#cf2059,c_1bde1407e5,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-10 06:43:32 +0530,2026-06-10,Online Store,Cash on Delivery (COD) + Cashfree + cod,Mohali,PB,IN
+#cf2058,c_d69bc52713,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-10 06:36:24 +0530,2026-06-10,Online Store,Cashfree,Pune,MH,IN
+#cf2057,c_63aa63ccaf,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 06:28:46 +0530,2026-06-10,Online Store,Cashfree,Gautam Buddha Nagar,UP,IN
+#cf2056,c_e489ac0f78,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 06:26:22 +0530,2026-06-10,Online Store,Cashfree,Mumbai,MH,IN
+#cf2055,c_2206bc3f85,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-10 06:25:38 +0530,2026-06-10,Online Store,Cashfree,Mumbai,MH,IN
+#cf2054,c_a60daff052,paid,INR,1236.17,0.0,0.0,1236.17,PrepaidDiscount,309.04,0.0,2026-06-10 06:08:43 +0530,2026-06-10,Online Store,Cashfree,Surat,GJ,IN
+#cf2053,c_261b9e7571,paid,INR,1016.31,0.0,0.0,1016.31,,0.0,0.0,2026-06-10 06:00:29 +0530,2026-06-10,Online Store,Cash on Delivery (COD) + Cashfree + cod,Chandigarh,CH,IN
+#cf2052,c_89d50a138a,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-10 05:19:50 +0530,2026-06-10,Online Store,Cashfree,Hyderabad,TS,IN
+#cf2051,c_94d44d7b8e,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 02:42:53 +0530,2026-06-10,Online Store,Cashfree,Pune,MH,IN
+#cf2050,c_dfd8e28ce9,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-10 02:40:42 +0530,2026-06-10,Online Store,Cash on Delivery (COD) + Cashfree + cod,Thanjavur,TN,IN
+#cf2049,c_2458ca849f,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-10 02:03:05 +0530,2026-06-10,Online Store,Cash on Delivery (COD) + Cashfree + cod,Bangalore,KA,IN
+#cf2048,c_8c51563ab0,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-10 01:43:21 +0530,2026-06-10,Online Store,Cashfree,Gurugram,HR,IN
+#cf2047,c_9e01b8d5b2,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-10 01:32:42 +0530,2026-06-10,Online Store,Cashfree,Gandhi Nagar,GJ,IN
+#cf2046,c_b45b03d631,paid,INR,2033.44,0.0,0.0,2033.44,,0.0,0.0,2026-06-10 01:31:16 +0530,2026-06-10,Web,"1Cashfree Payments(UPI,Cards,Net Banking,Wallets)",Hyderabad,TS,IN
+#cf2045,c_efb138321c,paid,INR,1626.59,0.0,0.0,1626.59,,0.0,0.0,2026-06-10 01:27:30 +0530,2026-06-10,Online Store,Cash on Delivery (COD) + Cashfree + cod,Gurgaon,HR,IN
+#cf2044,c_3aaf1ff0e7,paid,INR,1626.75,0.0,0.0,1626.75,PrepaidDiscount,406.69,0.0,2026-06-10 01:00:18 +0530,2026-06-10,Online Store,Cashfree,Bangalore,KA,IN
+#cf2043,c_a835071e55,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-10 00:58:13 +0530,2026-06-10,Online Store,Cashfree,South West Delhi,DL,IN
+#cf2042,,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 00:50:21 +0530,2026-06-10,Online Store,Cashfree,South West Delhi,DL,IN
+#cf2041,c_68b9e6f0c1,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-10 00:44:59 +0530,2026-06-10,Online Store,Cashfree,Mumbai,MH,IN
+#cf2040,c_a161773786,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 00:33:59 +0530,2026-06-10,Online Store,Cashfree,Ahmedabad,GJ,IN
+#cf2039,c_5410c13600,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-10 00:30:18 +0530,2026-06-10,Online Store,Cashfree,Nainital,UK,IN
+#cf2038,c_41df9aa293,paid,INR,812.89,40.69,0.0,853.57,,0.0,0.0,2026-06-10 00:25:00 +0530,2026-06-10,Online Store,Cash on Delivery (COD) + Cashfree + cod,Guwahati,AS,IN
+#cf2037,c_2dbe25ad92,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 00:23:44 +0530,2026-06-10,Online Store,Cashfree,Kanchipuram,TN,IN
+#cf2036,c_0dc6c80bd3,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 00:18:31 +0530,2026-06-10,Online Store,Cashfree,Bangalore,KA,IN
+#cf2035,c_d7becec889,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 00:08:28 +0530,2026-06-10,Online Store,Cashfree,Rajauri,JK,IN
+#cf2034,c_0dbde0fcaa,paid,INR,1301.27,40.69,0.0,1341.95,PrepaidDiscount,325.32,0.0,2026-06-10 00:07:28 +0530,2026-06-10,Online Store,Cashfree,K.V.Rangareddy,TS,IN
+#cf2033,c_56745874e2,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 00:06:14 +0530,2026-06-10,Online Store,Cashfree,South 24 Parganas,WB,IN
+#cf2032,c_fde90cd4f6,paid,INR,650.31,40.69,0.0,690.99,PrepaidDiscount,162.58,0.0,2026-06-10 00:03:37 +0530,2026-06-10,Online Store,Cashfree,Thane,MH,IN
+#cf2031,c_0755dbd54b,paid,INR,1236.17,40.69,0.0,1276.86,PrepaidDiscount,309.04,0.0,2026-06-10 00:03:13 +0530,2026-06-10,Online Store,Cashfree,Bangalore,KA,IN
+#cf2030,c_c9609e50af,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 00:03:06 +0530,2026-06-10,Online Store,Cashfree,Davangere,KA,IN
+#cf2029,c_e8f5a5a544,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-10 00:02:14 +0530,2026-06-10,Online Store,Cashfree,Chennai,TN,IN
+#cf2028,c_542a96dee6,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 23:48:07 +0530,2026-06-09,Online Store,Cashfree,Sirsa,HR,IN
+#cf2027,c_e166ccd758,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 23:45:40 +0530,2026-06-09,Online Store,Cashfree,Thane,MH,IN
+#cf2026,c_6a263bf415,paid,INR,813.05,40.69,0.0,853.73,PrepaidDiscount,203.26,0.0,2026-06-09 23:41:16 +0530,2026-06-09,Online Store,Cashfree,Kalahandi,OR,IN
+#cf2025,c_9da1859ae7,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 23:38:46 +0530,2026-06-09,Online Store,Cashfree,Panchkula,HR,IN
+#cf2024,c_533fd16413,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 23:35:50 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf2023,c_185f418609,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 23:33:19 +0530,2026-06-09,Online Store,Cashfree,Jammu,JK,IN
+#cf2022,c_0a6713e0d0,paid,INR,1236.17,0.0,0.0,1236.17,PrepaidDiscount,309.04,0.0,2026-06-09 23:31:09 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf2021,c_1a97126be0,refunded,INR,813.05,40.69,0.0,853.73,PrepaidDiscount,203.26,853.73,2026-06-09 23:29:27 +0530,2026-06-09,Online Store,Cashfree,Thane,MH,IN
+#cf2020,c_84e6f9175b,paid,INR,1626.59,40.69,0.0,1667.27,,0.0,0.0,2026-06-09 23:26:12 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,North 24 Parganas,WB,IN
+#cf2019,c_b1ffc6eff1,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 23:26:05 +0530,2026-06-09,Online Store,Cashfree,Raigarh,MH,IN
+#cf2018,c_83771355da,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 23:18:36 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Dakshina Kannada,KA,IN
+#cf2017,,paid,INR,650.31,40.69,0.0,690.99,PrepaidDiscount,162.58,0.0,2026-06-09 23:16:15 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf2016,,paid,INR,650.31,81.37,0.0,731.68,PrepaidDiscount,162.58,0.0,2026-06-09 23:12:02 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf2015,c_a884df1c1d,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 22:54:30 +0530,2026-06-09,Online Store,Cashfree,Meerut,UP,IN
+#cf2014,c_6983f58800,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 22:46:05 +0530,2026-06-09,Online Store,Cashfree,Chittoor,AP,IN
+#cf2013,c_35553e9755,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 22:45:34 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf2012,c_dcb33ec999,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 22:30:39 +0530,2026-06-09,Online Store,Cashfree,South West Delhi,DL,IN
+#cf2011,c_088ab52f74,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 22:26:45 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Lucknow,UP,IN
+#cf2010,c_b2dcbb3214,paid,INR,1236.17,0.0,0.0,1236.17,PrepaidDiscount,309.04,0.0,2026-06-09 22:25:36 +0530,2026-06-09,Online Store,Cashfree,Gautam Buddha Nagar,UP,IN
+#cf2009,c_885cb06cab,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 22:24:07 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf2008,c_7411536c5c,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 22:22:46 +0530,2026-06-09,Online Store,Cashfree,Kollam,KL,IN
+#cf2007,,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 22:21:33 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Ahmedabad,GJ,IN
+#cf2006,c_d957cdd83f,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 22:20:04 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf2005,c_a73f4a2d79,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 22:17:59 +0530,2026-06-09,Online Store,Cashfree,Noida,UP,IN
+#cf2004,c_fbb3d0824d,paid,INR,975.79,40.69,0.0,1016.47,PrepaidDiscount,243.95,0.0,2026-06-09 22:08:30 +0530,2026-06-09,Online Store,Cashfree,Chennai,TN,IN
+#cf2003,,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 22:03:45 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Mumbai,MH,IN
+#cf2002,c_5f070a85ef,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 21:56:45 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Belgaum,KA,IN
+#cf2001,c_c8b369cf73,paid,INR,812.89,40.69,0.0,853.57,,0.0,0.0,2026-06-09 21:45:11 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Mumbai,MH,IN
+#cf2000,c_15bee3e1e3,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 21:41:47 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1999,c_2b38e2f206,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 21:32:59 +0530,2026-06-09,Online Store,Cashfree,Rajkot,GJ,IN
+#cf1998,c_75ee7e78af,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 21:17:45 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Srinagar,JK,IN
+#cf1997,c_2519f1b57c,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 21:17:42 +0530,2026-06-09,Online Store,Cashfree,Tiruchirappalli,TN,IN
+#cf1996,c_e8201384ca,partially_paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 21:16:54 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree,Imphal West,MN,IN
+#cf1995,c_aa02e88a4a,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 21:12:46 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Kanpur Nagar,UP,IN
+#cf1994,c_66c1439d68,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 21:06:32 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Coimbatore,TN,IN
+#cf1993,c_b5a6ba0bfd,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 21:03:41 +0530,2026-06-09,Online Store,Cashfree,Raigarh,MH,IN
+#cf1992,c_1b6fc5a3d8,paid,INR,1016.31,0.0,0.0,1016.31,,0.0,0.0,2026-06-09 21:02:12 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Muktsar,PB,IN
+#cf1991,c_d6ec355f3c,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 20:54:41 +0530,2026-06-09,Online Store,Cashfree,South West Delhi,DL,IN
+#cf1990,,paid,INR,650.31,40.69,0.0,690.99,PrepaidDiscount,162.58,0.0,2026-06-09 20:44:09 +0530,2026-06-09,Online Store,Cashfree,Pune,MH,IN
+#cf1989,c_77df9e2e3e,paid,INR,813.05,81.37,0.0,894.42,PrepaidDiscount,203.26,0.0,2026-06-09 20:40:45 +0530,2026-06-09,Online Store,Cashfree,Jammu,JK,IN
+#cf1988,,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 20:33:32 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,East Delhi,DL,IN
+#cf1987,c_4c767dfe68,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 20:32:14 +0530,2026-06-09,Online Store,Cashfree,Vadodara,GJ,IN
+#cf1986,c_2e16511839,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 20:29:42 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Dehradun,UK,IN
+#cf1985,c_5eb6e64cdc,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 20:27:11 +0530,2026-06-09,Online Store,Cashfree,Patna,BR,IN
+#cf1984,c_927efca948,paid,INR,650.31,81.37,0.0,731.68,PrepaidDiscount,162.58,0.0,2026-06-09 20:26:50 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1983,c_8f88fca8fd,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 20:22:29 +0530,2026-06-09,Online Store,Cashfree,Kamrup,AS,IN
+#cf1982,c_e75bbbbd89,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 20:19:12 +0530,2026-06-09,Online Store,Cashfree,Kollam,KL,IN
+#cf1981,c_f641311a47,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 20:16:22 +0530,2026-06-09,Online Store,Cashfree,South Delhi,DL,IN
+#cf1980,c_d8bad159bc,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 20:14:11 +0530,2026-06-09,Online Store,Cashfree,Kolkata,WB,IN
+#cf1979,c_eeb669547c,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 20:01:51 +0530,2026-06-09,Online Store,Cashfree,Srinagar,JK,IN
+#cf1978,c_0aef5fe557,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 20:01:41 +0530,2026-06-09,Online Store,Cashfree,Sonipat,HR,IN
+#cf1977,c_0363b9bd29,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 19:57:28 +0530,2026-06-09,Online Store,Cashfree,Gurgaon,HR,IN
+#cf1976,c_6394e6f154,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 19:52:11 +0530,2026-06-09,Online Store,Cashfree,Surat,GJ,IN
+#cf1975,c_6000648a24,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 19:52:01 +0530,2026-06-09,Online Store,Cashfree,Central Delhi,DL,IN
+#cf1974,c_3db5602233,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 19:51:53 +0530,2026-06-09,Online Store,Cashfree,Sangli,MH,IN
+#cf1973,c_eac5843d15,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 19:42:47 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1972,c_35eb68319d,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 19:41:26 +0530,2026-06-09,Online Store,Cashfree,Ludhiana,PB,IN
+#cf1971,c_84440dc40a,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 19:39:46 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Gurgaon,HR,IN
+#cf1970,c_72709e391b,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 19:37:40 +0530,2026-06-09,Online Store,Cashfree,North 24 Parganas,WB,IN
+#cf1969,c_cd5b4fdbad,paid,INR,650.31,81.37,0.0,731.68,PrepaidDiscount,162.58,0.0,2026-06-09 19:36:25 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1968,c_d3aa1d183e,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 19:31:37 +0530,2026-06-09,Online Store,Cashfree,West Midnapore,WB,IN
+#cf1967,c_4acb7f659f,partially_paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 19:30:57 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree,Lucknow,UP,IN
+#cf1966,c_110c3d6d34,partially_paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 19:21:32 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree,K.V.Rangareddy,TS,IN
+#cf1965,c_238df97b1f,paid,INR,1016.31,0.0,0.0,1016.31,,0.0,0.0,2026-06-09 19:17:12 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Gurgaon,HR,IN
+#cf1964,c_81a7c77c31,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 19:11:37 +0530,2026-06-09,Online Store,Cashfree,Anuppur,MP,IN
+#cf1963,c_34c17d4d90,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 19:08:02 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1962,c_f879fa3044,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 19:07:12 +0530,2026-06-09,Online Store,Cashfree,Davangere,KA,IN
+#cf1961,c_7aa6614f86,paid,INR,975.79,81.37,0.0,1057.16,PrepaidDiscount,243.95,0.0,2026-06-09 19:06:31 +0530,2026-06-09,Online Store,Cashfree,Mysore,KA,IN
+#cf1960,c_57b21fd54a,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 19:02:37 +0530,2026-06-09,Online Store,Cashfree,Gurgaon,HR,IN
+#cf1959,c_0ebe03277a,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 18:47:48 +0530,2026-06-09,Online Store,Cashfree,Gautam Buddha Nagar,UP,IN
+#cf1958,c_a50008131b,partially_paid,INR,1545.22,0.0,0.0,1545.22,,0.0,0.0,2026-06-09 18:41:04 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree,Tinsukia,AS,IN
+#cf1957,c_c0cc5344f3,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 18:32:35 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Navsari,GJ,IN
+#cf1956,c_3e3bda58c0,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 18:28:53 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Alwar,RJ,IN
+#cf1955,c_4e9e83cd02,partially_paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 18:28:02 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree,K.V.Rangareddy,TS,IN
+#cf1954,c_575e4c1363,partially_paid,INR,1626.59,0.0,0.0,1626.59,,0.0,0.0,2026-06-09 18:19:41 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree,East Delhi,DL,IN
+#cf1953,c_c1c8f7278d,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 18:07:35 +0530,2026-06-09,Online Store,Cashfree,Gurgaon,HR,IN
+#cf1952,c_3b69c080b7,paid,INR,650.31,81.37,0.0,731.68,PrepaidDiscount,162.58,0.0,2026-06-09 18:00:32 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1951,c_79a96a8bb7,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 17:57:18 +0530,2026-06-09,Online Store,Cashfree,Kamrup,AS,IN
+#cf1950,c_486c193998,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 17:55:55 +0530,2026-06-09,Online Store,Cashfree,Khorda,OR,IN
+#cf1949,c_abd6a28b28,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 17:53:35 +0530,2026-06-09,Online Store,Cashfree,Bardhaman,WB,IN
+#cf1948,c_6a0d3f09e0,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 17:52:29 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Bokaro,JH,IN
+#cf1947,c_d1d3d18aeb,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 17:48:57 +0530,2026-06-09,Online Store,Cashfree,Gautam Buddha Nagar,UP,IN
+#cf1946,c_6c0e3ea7a6,paid,INR,1016.31,0.0,0.0,1016.31,,0.0,0.0,2026-06-09 17:47:10 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Agra,UP,IN
+#cf1945,c_21dee79331,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 17:46:50 +0530,2026-06-09,Online Store,Cashfree,Ahmedabad,GJ,IN
+#cf1944,c_a881b37101,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 17:38:14 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Thane,MH,IN
+#cf1943,c_4d55813550,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 17:33:17 +0530,2026-06-09,Online Store,Cashfree,Jorhat,AS,IN
+#cf1942,c_7d9210227b,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 17:30:59 +0530,2026-06-09,Online Store,Cashfree,Faridabad,HR,IN
+#cf1941,c_c23f9a45d7,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 17:22:45 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Kokrajhar,AS,IN
+#cf1940,c_d45bfef551,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 17:21:31 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1939,c_740541684b,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 17:14:29 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Bellary,KA,IN
+#cf1938,c_23b0130f4d,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 17:09:15 +0530,2026-06-09,Online Store,Cashfree,Pune,MH,IN
+#cf1937,c_5d27b1febf,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 17:05:37 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Dehradun,UK,IN
+#cf1936,c_eab16805f3,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 17:04:22 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1935,c_223c5eab64,paid,INR,1236.17,81.37,0.0,1317.54,PrepaidDiscount,309.04,0.0,2026-06-09 17:03:14 +0530,2026-06-09,Online Store,Cashfree,Pune,MH,IN
+#cf1934,c_8a4d9a597f,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 17:02:32 +0530,2026-06-09,Online Store,Cashfree,Thane,MH,IN
+#cf1933,c_c59ac14f4d,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 17:00:28 +0530,2026-06-09,Online Store,Cashfree,Sagar,MP,IN
+#cf1932,c_e78c4b01fa,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 17:00:22 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Dakshina Kannada,KA,IN
+#cf1931,c_85326d38a7,paid,INR,975.79,81.37,0.0,1057.16,PrepaidDiscount,243.95,0.0,2026-06-09 17:00:18 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1930,c_2f85dba6bf,paid,INR,1219.74,40.69,0.0,1260.42,,0.0,0.0,2026-06-09 16:59:12 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Visakhapatnam,AP,IN
+#cf1929,,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 16:50:57 +0530,2026-06-09,Online Store,Cashfree,West Delhi,DL,IN
+#cf1928,c_da0115e42f,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 16:37:22 +0530,2026-06-09,Online Store,Cashfree,Koraput,OR,IN
+#cf1927,c_7406cffc41,partially_paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 16:31:15 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree,South 24 Parganas,WB,IN
+#cf1926,c_9a06548656,paid,INR,1236.17,81.37,0.0,1317.54,PrepaidDiscount,309.04,0.0,2026-06-09 16:30:25 +0530,2026-06-09,Online Store,Cashfree,Kolkata,WB,IN
+#cf1925,c_73a68b08c4,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 16:28:48 +0530,2026-06-09,Online Store,Cashfree,Varanasi,UP,IN
+#cf1924,c_ce9d282e7d,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 16:26:26 +0530,2026-06-09,Online Store,Cashfree,Madurai,TN,IN
+#cf1923,c_29213d8a63,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 16:26:13 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1922,c_47ea689d15,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 16:25:45 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1921,,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 16:20:01 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Kolar,KA,IN
+#cf1920,c_6d14993908,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 16:18:01 +0530,2026-06-09,Online Store,Cashfree,Mohali,PB,IN
+#cf1919,c_41ee89fc36,paid,INR,1626.59,0.0,0.0,1626.59,,0.0,0.0,2026-06-09 16:17:11 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Allahabad,UP,IN
+#cf1918,c_3a2fce9206,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 16:14:03 +0530,2026-06-09,Online Store,Cashfree,South West Delhi,DL,IN
+#cf1917,c_1dd6840895,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 16:08:44 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Udupi,KA,IN
+#cf1916,,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 16:01:59 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1915,c_bc4d9ad3eb,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 15:53:01 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1914,c_52054277c1,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 15:45:02 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Bhopal,MP,IN
+#cf1913,c_bae575cda0,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 15:40:18 +0530,2026-06-09,Online Store,Cashfree,Pune,MH,IN
+#cf1912,c_e87b1db59d,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 15:40:01 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1911,c_b5d4300fbc,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 15:37:13 +0530,2026-06-09,Online Store,Cashfree,Kozhikode,KL,IN
+#cf1910,c_e0ed394bf8,paid,INR,1016.31,0.0,0.0,1016.31,,0.0,0.0,2026-06-09 15:35:51 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,South Goa,GA,IN
+#cf1909,c_cfb0b33039,paid,INR,1016.31,0.0,0.0,1016.31,,0.0,0.0,2026-06-09 15:31:25 +0530,2026-06-09,Online Store,"Cash on Delivery (COD) + Cashfree + 1Cashfree Payments(UPI,Cards,Net Banking,Wallets)",Alappuzha,KL,IN
+#cf1908,c_f36087dc6b,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 15:28:56 +0530,2026-06-09,Online Store,Cashfree,Chennai,TN,IN
+#cf1907,c_5e639dcf48,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 15:24:53 +0530,2026-06-09,Online Store,Cashfree,Thiruvananthapuram,KL,IN
+#cf1906,c_533cbff759,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 15:23:51 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Kolkata,WB,IN
+#cf1905,c_e83a3ed6fc,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 15:22:08 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Gurgaon,HR,IN
+#cf1904,c_c51059581d,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 15:13:03 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,South Delhi,DL,IN
+#cf1903,,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 15:07:00 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1902,c_73d085cfdc,paid,INR,650.31,40.69,0.0,690.99,PrepaidDiscount,162.58,0.0,2026-06-09 15:03:30 +0530,2026-06-09,Online Store,Cashfree,Navi Mumbai,MH,IN
+#cf1901,,paid,INR,1219.74,0.0,0.0,1219.74,,0.0,0.0,2026-06-09 14:59:04 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Kamrup,AS,IN
+#cf1900,c_8e1951fe52,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:56:06 +0530,2026-06-09,Online Store,Cashfree,Jaipur,RJ,IN
+#cf1899,,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:55:39 +0530,2026-06-09,Online Store,Cashfree,Raigarh,MH,IN
+#cf1898,c_01f27a6fa8,partially_paid,INR,1016.31,0.0,0.0,1016.31,,0.0,0.0,2026-06-09 14:52:26 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree,Jaipur,RJ,IN
+#cf1897,c_801ec2251c,paid,INR,975.79,0.0,0.0,975.79,PrepaidDiscount,243.95,0.0,2026-06-09 14:41:18 +0530,2026-06-09,Online Store,Cashfree,Station Ghanpur,TS,IN
+#cf1896,c_4facc1c41a,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 14:39:54 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Pune,MH,IN
+#cf1895,c_6503efc5c3,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 14:39:05 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1894,c_624698b8b0,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:34:39 +0530,2026-06-09,Online Store,Cashfree,Tuticorin,TN,IN
+#cf1893,c_3fc5848048,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:32:43 +0530,2026-06-09,Online Store,Cashfree,Durg,CG,IN
+#cf1892,c_168cab071f,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 14:32:14 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Faridabad,HR,IN
+#cf1891,c_9d2f2ad9c6,paid,INR,650.31,40.69,0.0,690.99,PrepaidDiscount,162.58,0.0,2026-06-09 14:30:59 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1890,c_49d4de9fdd,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 14:29:25 +0530,2026-06-09,Online Store,Cashfree,Harda,MP,IN
+#cf1889,,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:26:05 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1888,c_bbeded8a49,paid,INR,812.89,0.0,0.0,812.89,,0.0,0.0,2026-06-09 14:24:06 +0530,2026-06-09,Online Store,Cash on Delivery (COD) + Cashfree + cod,Mumbai,MH,IN
+#cf1887,c_64586024c8,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:23:26 +0530,2026-06-09,Online Store,Cashfree,Ernakulam,KL,IN
+#cf1886,c_ec548a2ff9,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:21:28 +0530,2026-06-09,Online Store,Cashfree,Hyderabad,TS,IN
+#cf1885,,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:20:13 +0530,2026-06-09,Online Store,Cashfree,Pune,MH,IN
+#cf1884,,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 14:18:36 +0530,2026-06-09,Online Store,Cashfree,Pune,MH,IN
+#cf1883,c_e1fa85e154,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:14:32 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1882,c_b595f198bf,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:12:42 +0530,2026-06-09,Online Store,Cashfree,Ahmedabad,GJ,IN
+#cf1881,c_6d31fc3aad,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 14:11:25 +0530,2026-06-09,Online Store,Cashfree,Mumbai,MH,IN
+#cf1880,c_5c607d6308,paid,INR,1301.27,0.0,0.0,1301.27,PrepaidDiscount,325.32,0.0,2026-06-09 14:08:46 +0530,2026-06-09,Online Store,Cashfree,Bangalore,KA,IN
+#cf1879,c_625ffd878d,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 13:59:04 +0530,2026-06-09,Online Store,Cashfree,Lucknow,UP,IN
+#cf1878,c_1c294d64b9,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 13:57:28 +0530,2026-06-09,Online Store,Cashfree,Chennai,TN,IN
+#cf1877,c_1e30ede70d,paid,INR,650.31,0.0,0.0,650.31,PrepaidDiscount,162.58,0.0,2026-06-09 13:50:44 +0530,2026-06-09,Online Store,Cashfree,North Goa,GA,IN
+#cf1876,c_ea23e17dc3,paid,INR,1626.75,0.0,0.0,1626.75,PrepaidDiscount,406.69,0.0,2026-06-09 13:43:10 +0530,2026-06-09,Online Store,Cashfree,Raipur,CG,IN
+#cf1875,,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 13:40:37 +0530,2026-06-09,Online Store,Cashfree,Ludhiana,PB,IN
+#cf1874,,paid,INR,813.05,0.0,0.0,813.05,PrepaidDiscount,203.26,0.0,2026-06-09 13:38:15 +0530,2026-06-09,Online Store,Cashfree,Nagpur,MH,IN
